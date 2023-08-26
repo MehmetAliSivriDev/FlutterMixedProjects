@@ -1,0 +1,48 @@
+ 
+  [
+    {
+      "id": 1,
+      "categoryName": "Mercedes",
+      "seoUrl": "mercedes"
+    },
+    {
+      "id": 2,
+      "categoryName": "BMW",
+      "seoUrl": "bmw"
+    },
+    {
+      "id": 3,
+      "categoryName": "Audi",
+      "seoUrl": "audi"
+    },
+    {
+      "id": 4,
+      "categoryName": "Volkswagen",
+      "seoUrl": "volkswagen"
+    },
+    {
+      "id": 5,
+      "categoryName": "Toyota",
+      "seoUrl": "toyota"
+    },
+    {
+      "id": 6,
+      "categoryName": "Peugeot",
+      "seoUrl": "peugeot"
+    },
+    {
+      "id": 7,
+      "categoryName": "Renault",
+      "seoUrl": "renault"
+    },
+    {
+      "id": 8,
+      "categoryName": "Honda",
+      "seoUrl": "honda"
+    },
+    {
+      "id": 9,
+      "categoryName": "Seat",
+      "seoUrl": "seat"
+    }
+  ]

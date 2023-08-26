@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "663387297233",
+    "project_id": "anketdemo-8e225",
+    "storage_bucket": "anketdemo-8e225.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663387297233:android:10d16c73db4905abc33cf0",
+        "android_client_info": {
+          "package_name": "com.sv.firebase_deneme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663387297233-mb3jtip47nrkio8odo6a7be6eqd7qdr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0MafNcVzy4Gi9JV8i9mO362C4g4G80C4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663387297233-mb3jtip47nrkio8odo6a7be6eqd7qdr6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
